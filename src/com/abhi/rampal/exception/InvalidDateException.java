@@ -1,4 +1,4 @@
-package com.abhi.rampal;
+package com.abhi.rampal.exception;
 
 public class InvalidDateException extends Exception {
     private String errorCode;
